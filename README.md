@@ -13,5 +13,5 @@ The analysis helps the lending company to find out such applications and refrain
 #### Step 5: Bivaraiate/Multivariate Analysis
 #### Step 6: Observations   
 
-#  By
+# Contributions By
 Prathima Krishnamoorthi & Monali Shinde
